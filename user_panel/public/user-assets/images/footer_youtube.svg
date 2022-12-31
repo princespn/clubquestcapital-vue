@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.294" height="21.294" viewBox="0 0 21.294 21.294">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="0.917" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#706eec"/>
+      <stop offset="1" stop-color="#b15bfe"/>
+    </linearGradient>
+  </defs>
+  <g id="footer_youtube" transform="translate(-1314.707 -1056)">
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="21.294" height="21.294" rx="5" transform="translate(1314.707 1056)" fill="url(#linear-gradient)"/>
+    <path id="Path_292" data-name="Path 292" d="M8.347,17.98a1.387,1.387,0,0,1-.915-.892c-.4-1.092-.516-5.65.251-6.55a1.475,1.475,0,0,1,1-.5,55.485,55.485,0,0,1,9.146.074,1.431,1.431,0,0,1,.9.863,14.247,14.247,0,0,1-.059,6.314,1.394,1.394,0,0,1-.642.649C17.265,18.32,9.365,18.312,8.347,17.98Zm3.267-2.139L15.3,13.924l-3.688-1.932Z" transform="translate(1312.26 1053.11)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

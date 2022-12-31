@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125.724" height="125.724" viewBox="0 0 125.724 125.724">
+  <defs>
+    <filter id="Path_4426" x="0" y="0" width="125.724" height="125.724" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="aqua" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005cda"/>
+      <stop offset="1" stop-color="#bbdbfc"/>
+    </linearGradient>
+  </defs>
+  <g id="Close_icon" data-name="Close icon" transform="translate(-1320.027 -182.027)">
+    <g transform="matrix(1, 0, 0, 1, 1320.03, 182.03)" filter="url(#Path_4426)">
+      <path id="Path_4426-2" data-name="Path 4426" d="M32.862,0A32.862,32.862,0,1,1,0,32.862,32.862,32.862,0,0,1,32.862,0Z" transform="translate(30 30)" fill="#fff"/>
+    </g>
+    <g id="icons_Q2" data-name="icons Q2" transform="translate(1354.778 216.778)">
+      <path id="Path_4421" data-name="Path 4421" d="M30.034,7.1A22.937,22.937,0,1,1,7.1,30.034,22.937,22.937,0,0,1,30.034,7.1m0-5.1a27.906,27.906,0,1,0,19.861,8.173A28.034,28.034,0,0,0,30.034,2Z" transform="translate(-2 -2)" fill="url(#linear-gradient)"/>
+      <path id="Path_4422" data-name="Path 4422" d="M30.036,26.48l7.136-7.008a2.676,2.676,0,0,0,.255-3.441,2.421,2.421,0,0,0-3.823-.255l-7.136,7.136-7.136-7.136a2.421,2.421,0,0,0-3.823.255,2.676,2.676,0,0,0,.255,3.441L22.9,26.48l-7.136,7.008a2.676,2.676,0,0,0-.255,3.441,2.421,2.421,0,0,0,3.823.255l7.136-7.136L33.6,37.183a2.421,2.421,0,0,0,3.823-.255,2.676,2.676,0,0,0-.255-3.441Z" transform="translate(1.566 1.555)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

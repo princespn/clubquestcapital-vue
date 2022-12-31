@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.294" height="21.294" viewBox="0 0 21.294 21.294">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="0.917" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#706eec"/>
+      <stop offset="1" stop-color="#b15bfe"/>
+    </linearGradient>
+  </defs>
+  <g id="footer_facebook" transform="translate(-1262.2 -1055.853)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(1262.2 1055.853)">
+      <g id="Layer_1" data-name="Layer 1">
+        <rect id="Rectangle_8575" data-name="Rectangle 8575" width="21.294" height="21.294" rx="5" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="de5c86ec3adb5fb7218b18e9d20f6364" d="M12.567,4.324h1.316V2.1A18.277,18.277,0,0,0,11.965,2,3,3,0,0,0,8.759,5.29V7.124H6.61V9.616H8.759V16h2.576V9.616h2.142L13.8,7.124H11.335V5.535C11.335,4.8,11.531,4.324,12.567,4.324Z" transform="translate(1262.958 1057.637)" fill="#fff"/>
+  </g>
+</svg>
